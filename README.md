@@ -8,6 +8,21 @@ This repository is about EDA performed on the death of the characters of the Gam
    - It has a python notebook where all the coding has been done.
    - It also has the relevant datasets and files used for this analysis.
 
+# Technologies Used
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebok
+* Kaggle
+* Statistics
+
+# Dataset
+* You can download the dataset from the kaggle website.
+* https://www.kaggle.com/datasets/mylesoneill/game-of-thrones?select=character-deaths.csv
+
 # Summary
 * From the total characters there are 82.9% male characters who are died in the Game of Thrones.
 * 46.9% characters from the total characters are from nobility, who are died in the Game of Thrones.
@@ -25,18 +40,3 @@ This repository is about EDA performed on the death of the characters of the Gam
 Through this EDA, we aim to unravel intriguing insights about character deaths in the "Game of Thrones" series. By examining allegiances, death years, contexts, and survival rates, we can gain a deeper understanding of the narrative dynamics and the impact of character deaths on the overarching story.
 
 As we embark on this exploration, we pay homage to the characters who have left their mark on this epic saga, shaping the realm of Westeros and Essos in ways that continue to resonate with fans and enthusiasts worldwide.
-
-# Technologies Used
-* Python
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebok
-* Kaggle
-* Statistics
-
-# Dataset
-* You can download the dataset from the kaggle website.
-* https://www.kaggle.com/datasets/mylesoneill/game-of-thrones?select=character-deaths.csv
