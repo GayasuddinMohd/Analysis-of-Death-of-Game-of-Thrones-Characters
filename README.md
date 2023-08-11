@@ -26,7 +26,7 @@ Through this EDA, we aim to unravel intriguing insights about character deaths i
 
 As we embark on this exploration, we pay homage to the characters who have left their mark on this epic saga, shaping the realm of Westeros and Essos in ways that continue to resonate with fans and enthusiasts worldwide.
 
-# Skills  
+# Technologies Used
 * Python
 * Numpy
 * Pandas
