@@ -1,4 +1,4 @@
-![Image Alt Text](https://raw.githubusercontent.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Death-of-Game-of-Thrones-Characters/main/Death%20of%20Game%20of%20Thrones%20Characters%20Image.webp)
+![Image Alt Text](https://i.guim.co.uk/img/media/21ed448c50dc2c89b2024e8ade322e08bf40e7af/1195_0_7394_4440/master/7394.jpg?width=620&dpr=2&s=none)
 
 # 🌼  Exploratory Data Analysis on Death of Game of Thrones Characters  🌼
 This is the in depth Exploratory Data Analysis on the death of the characters of the  Game of Thrones , with beautiful and simple visualizations plots which will helps to understand the insights easily.The "Game of Thrones" series is renowned for its intricate narrative and a vast ensemble of characters, each navigating a perilous journey in the fictional world of Westeros and Essos. The dataset character-deaths.csv offers a unique lens into the fates of these characters, documenting their deaths and the context surrounding them. In this EDA, we will delve into the dataset to uncover patterns, insights, and narratives related to character deaths.
