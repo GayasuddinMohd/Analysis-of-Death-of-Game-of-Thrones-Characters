@@ -3,7 +3,7 @@
 # Analysis of Death of Game of Thrones Characters  
 This is the analysis of the death of the characters of the  Game of Thrones , with beautiful and simple visualizations plots which will helps to understand the insights easily.The "Game of Thrones" series is renowned for its intricate narrative and a vast ensemble of characters, each navigating a perilous journey in the fictional world of Westeros and Essos. The dataset character-deaths.csv offers a unique lens into the fates of these characters, documenting their deaths and the context surrounding them. In this analysis, we will delve into the dataset to uncover patterns, insights, and narratives related to character deaths.
 
-# Technologies Used 
+# Skills
 * Python
   
 # Dataset  
